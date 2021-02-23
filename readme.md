@@ -1,7 +1,3 @@
-hello,world!!!
-## who ?
-### hello?
-#### are you serious?
-this is my first time to test remote a new repository.i want to push my handheld devices to github.
-i will modify this repository after push it to github.
-see you later!	XD
+## 这是我第一次在GitHub上，上传自己的代码。
+这个代码是关于一个简单的Android手持设备开发的。之后我会写一篇简要的博客，来整理并记载这个小开发的过程。XD
+**2021/2/23**
